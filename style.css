@@ -1,0 +1,39 @@
+.whole-assignment{
+    padding: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 500px;
+    border: 2px solid black;
+    margin: auto;
+
+    
+
+}
+button{
+    color:white;
+    background-color: blue;
+}
+h2{
+    color: rgb(86, 86, 207);
+}
+.inline{
+display:flex;
+margin-bottom: 20px;
+}
+.form-controls{
+    width: 50%;
+    
+}
+
+.firstname , .lastname, .gender,.email,.country,.state, .dob, .phone,.sch, .study, .hear, .education, 
+.scholar, .employment {
+    width: 90%;
+    padding: 10px 13px;
+    box-sizing: border-box;
+}
+.required{
+    color: red;
+}
+
+button {
+    display: block; margin: auto;
+}
